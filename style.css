@@ -98,6 +98,11 @@ section{
     border: none;
 }
 
+.carousel-indicators .active {
+    background: darkgrey;
+    width: 45px;
+}
+
 
 footer{
     padding: 8%;
