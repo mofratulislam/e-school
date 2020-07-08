@@ -1,0 +1,109 @@
+body{
+    font-family: 'Mukta', sans-serif;
+    margin:0;
+}
+p{
+    color: dimgray;
+    
+    font-size: 1.3em;
+    
+}
+nav img{
+    
+width: 198.07px;
+height: 59px;
+left: 212px;
+top: 30px;
+}
+.green-color{
+    color: #21B573;
+}
+.button1{
+   
+padding: 5px 8px;
+
+border:  none;
+background: #21B573;
+border-radius: 33px;
+    
+}
+
+.button2{
+    padding: 10px 20px;
+    border:none;
+    color:white;
+    background: #21B573;
+    border-radius: 33px;
+}
+
+.green-bg{
+    background: #F0FFF0;
+}
+.first-section{
+    padding:10%;
+}
+
+.first-section img{
+    width:80%;
+}
+
+
+
+section{
+    margin-bottom: 100px;
+}
+
+.books{
+  border-radius: 10px;
+  
+}
+
+.books img{
+ width : 20% ;
+}
+.purple-color{
+    color: #413960;
+}
+
+
+.button3{
+    padding: 8px 15px;
+    border:none;
+    background: #21B573;
+    border-radius: 20px;
+}
+.card{
+    box-shadow: 5px 5px 10px gray;
+}
+
+.card-footer img{
+    width:15%;
+}
+
+
+
+.carousel-item img {
+    width:70% ;
+}
+
+.carousel-item .txt{
+        padding-top: 7% ;
+}
+
+.carousel-indicators li {
+    background-color: #CECECE;
+    height: 10px;
+    width: 16px;
+    border-radius: 6px;
+    border: none;
+}
+
+
+footer{
+    padding: 8%;
+    color:white
+}
+
+footer a{
+    color: #FFFFFF;
+}
